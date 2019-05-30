@@ -65,7 +65,7 @@ Warning: This takes an extremely long time to run, and is not suggested!
 4. The program will then exit itself.
 ```
 
-### Extra Info
+### More Information
 
 For more information, you may refer to the Write Up documentation found in the paperwork directory.
 
