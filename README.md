@@ -75,5 +75,5 @@ For more information, you may refer to the Write Up documentation found in the p
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/brianloi/NLP_QA/blob/master/LICENSE) file for details
 
