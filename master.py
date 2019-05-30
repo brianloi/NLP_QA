@@ -495,7 +495,7 @@ def ask_question_mode():
                     sim_lst.append( (index, sim) )
 
             #Print Top 5 Answers (Page Titles)
-            top_n = sorted(sim_lst, key=itemgetter(1), reverse=True)[:11]
+            top_n = sorted(sim_lst, key=itemgetter(1), reverse=True)[:10]
             del sim_lst
             print()
             for i in range(1,len(top_n)+1):
